@@ -20,8 +20,8 @@ axios
     console.log(chalk.red.bgYellow(`Failed to check if bot is up to date!`));
   });
 
-const webhook = require("/config/webhooks.json");
-const config = require("/config/bot.js");
+const webhook = require("./config/webhooks.json");
+const config = require("./config/bot.js");
 const webHooksArray = [
   "startLogs",
   "shardLogs",
