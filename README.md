@@ -19,7 +19,7 @@ Welcome to the Penguin bot repository! Penguin is your ultimate all-in-one Disco
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/penguin-v2.git
+   git clone https://github.com/mikeharrison32/penguin-v2.git
    cd penguin-v2
    ```
 
@@ -43,8 +43,8 @@ Welcome to the Penguin bot repository! Penguin is your ultimate all-in-one Disco
 
 ## Usage
 
-- Invite Penguin to your server using the invite link: [Invite Link](YOUR_INVITE_LINK)
-- Use commands like `!help` to see a list of available commands.
+- Invite Penguin to your server using the invite link: [Invite Link](https://discord.com/oauth2/authorize?client_id=1298227208955101235&permissions=1099544194102&integration_type=0&scope=bot+applications.commands)
+- Use commands like `/help` to see a list of available commands.
 
 ## Join Our Community!
 
